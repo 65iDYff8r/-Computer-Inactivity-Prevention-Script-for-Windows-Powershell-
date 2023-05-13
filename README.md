@@ -4,7 +4,7 @@ This is a simple powershell script for Windows machines, created in order to pre
 
 The script is designed to run for 480 minutes (8 hours) by default, but you can obviously change this to the calue of your choosing.
 
-The script by automatically pressing the SCROLL LOCK button every one minute (every 58 seconds to be exact).
+The script works by automatically pressing the SCROLL LOCK button every one minute (every 58 seconds to be exact).
 
 This button can also be changed, but, generally speaking at least, the SCROLL LOCK button is not really in use anymore, and this is wny it was chosen.
 
