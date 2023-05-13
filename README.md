@@ -10,8 +10,6 @@ This button can also be changed, but, generally speaking at least, the SCROLL LO
 
 The reason why I created this script is because there are various apps that move the mouse every few seconds, to achive the same result (prevent the computer from going to sleep), but this is actually problematic if you are working on the PC, and the mouse cursor moves while you are actually doing something with the mouse, causing you to click at the wrong place.
 
-The script is completely free to use.
-
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4GSPR6TZJZRF8">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
 </a>
