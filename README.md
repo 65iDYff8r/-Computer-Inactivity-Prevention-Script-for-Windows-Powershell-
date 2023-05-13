@@ -6,7 +6,7 @@ The script is designed to run for 480 minutes (8 hours) by default, but you can 
 
 The script works by automatically pressing the SCROLL LOCK button every one minute (every 58 seconds to be exact).
 
-This button can also be changed, but, generally speaking at least, the SCROLL LOCK button is not really in use anymore, and this is wny it was chosen.
+This button can also be changed, but, generally speaking at least, the SCROLL LOCK button is not really in use anymore, and this is why it was chosen.
 
 The reason why I created this script is because there are various apps that move the mouse every few seconds, to achive the same result (prevent the computer from going to sleep), but this is actually problematic if you are working on the PC, and the mouse cursor moves while you are actually doing something with the mouse, causing you to click at the wrong place.
 
