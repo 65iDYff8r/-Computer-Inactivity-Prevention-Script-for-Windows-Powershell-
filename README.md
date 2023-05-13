@@ -1,0 +1,1 @@
+# -Computer-Inactivity-Prevention-Script-for-Windows-Powershell-
