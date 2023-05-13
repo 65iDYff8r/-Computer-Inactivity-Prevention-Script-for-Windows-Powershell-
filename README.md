@@ -1,4 +1,4 @@
-Computer-Inactivity-Prevention-Script-for-Windows-Powershell.
+Inactivity-Prevention-Script-for-Windows-Powershell.
 
 This is a simple powershell script for Windows machines, created in order to prevent  your PC/server from going to sleep mode due to inactivity.
 
