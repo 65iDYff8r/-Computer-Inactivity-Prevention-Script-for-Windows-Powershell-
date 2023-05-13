@@ -12,5 +12,6 @@ The reason why I created this script is because there are various apps that move
 
 The script is completely free to use.
 
-
-
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4GSPR6TZJZRF8">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
+</a>
